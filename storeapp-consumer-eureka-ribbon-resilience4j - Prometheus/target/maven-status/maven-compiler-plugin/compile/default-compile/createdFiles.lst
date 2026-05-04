@@ -1,0 +1,5 @@
+com\company\Config.class
+com\company\domain\Product.class
+com\company\service\ProductService.class
+com\company\controller\ProductClientController.class
+com\company\StoreappConsumerEurekaRibbonHysterixApplication.class
